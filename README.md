@@ -1,9 +1,9 @@
 # University Projects
 Projects from my Research Internships during my BS-MS Degree (Bachelor - Masters Of Science)
 
-- ** 2019: Semester Project, 4 months**   
- - Analysed satellite data with MATLAB to study the Indian monsoon. Used python to colllect and process the data.
- -  
+- **2019: Semester Project, 4 months**   
+  - Analysed satellite data with MATLAB to study the Indian monsoon. Used python to colllect and process the data.
+  -  
 
 - **2018:** My summer project involved the use of Automatic recording Units (ARUs) in studying the soundscapes in the Kodaikanal Wildlife Sanctuary. I analysed the data using R and Matlab, as well as a proprietary software RAVEN to produce plots and figures
 
