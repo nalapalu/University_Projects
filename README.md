@@ -20,12 +20,6 @@ Projects from my Research Internships during my BS-MS Degree (Bachelor - Masters
   - I sampled the data in the region for over a month 
   - I spent the next 4 months processing the data in R and its associated packages, vegan, Biodiversity Distance, SPECIES and species estimators such as Chao1 and Jackknife to determine sampling completeness. 
 
-- **2016: Summer Project (Physics), 3 months**
-  - A theoretical Physics Project where my study primarily revolves around rogue waves in nonlinear optical fibers
-  - Modeled these waves, the nonlinear Schrodinger wave equation(NLSE).
-
-
-
 
 
 
