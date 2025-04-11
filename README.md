@@ -1,5 +1,5 @@
 # University Projects
-Projects from my Research Internships during my BS-MS Degree (Bachelor - Masters Of Science)
+Projects from my Research Internships during my BS-MS Degree (Bachelor - Masters Of Science) at the Indian Institute of Science Education and Research Tirupati
 
 - [**2019: Semester Project (Physics)**](https://github.com/nalapalu/University_Projects/blob/main/Chiran_ProjectPresentation_2019.pdf), 4 months   
   - Performed an exhaustive analysis of satellite data using MATLAB and Python. Used statistical methods along with visualizations to get insights into the data
